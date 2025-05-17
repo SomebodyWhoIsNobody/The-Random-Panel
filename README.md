@@ -6,4 +6,4 @@ This is a Roblox script that will fit in one .lua file that hosts a couple of fe
 
 # Disclaimer: Neither I nor Ethanjiii are responsible if you get banned.
 ### How you choose to use this script is entirely up to you.
-However, using it in violation of Roblox's Terms of Service is not the intended purpose and is discouraged.
+### However, using it in violation of Roblox's Terms of Service is not the intended purpose and is discouraged.
