@@ -4,5 +4,6 @@
 ## What is this?
 This is a Roblox script that will fit in one .lua file that hosts a couple of features.
 
-# ***Neither Me nor Ethanjiii are responsible for you getting banned!***
-### How you use this is completely up to you, but using this against Roblox's TOS is an action not intended for this script.
+# Disclaimer: Neither I nor Ethanjiii are responsible if you get banned.
+### How you choose to use this script is entirely up to you.
+However, using it in violation of Roblox's Terms of Service is not the intended purpose and is discouraged.
